@@ -104,3 +104,5 @@ GET /clientes?cidade=Itajaí
 - [x] Middlewares aplicados
 - [x] Filtros com query string
 - [x] Documentação completa
+
+https://github.com/YanBattis/Sexta.git
