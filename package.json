@@ -1,0 +1,14 @@
+{
+  "name": "express-clientes",
+  "version": "1.0.0",
+  "description": "API de Clientes - Atividade Prática Express.js (UNIVALI)",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "morgan": "^1.10.0"
+  }
+}
